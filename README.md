@@ -63,5 +63,8 @@ Itern Devops
             alt="LinkedIn"></a>      
 <a href="https://github.com/DHaiDang/Devops_research">
         <img src="https://img.shields.io/badge/Docker--_.svg?style=social&logo=docker"      
-            alt="LinkedIn"></a>  
+            alt="LinkedIn"></a>
+            <a href="https://github.com/DHaiDang/Top_10_Owasp_research">
+        <img src="https://img.shields.io/badge/Owasp--_.svg?style=social&logo=owasp"      
+            alt="LinkedIn"></a> 
 </p>
