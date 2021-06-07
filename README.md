@@ -3,25 +3,6 @@
 <img   style="display: block; margin-left:auto; margin-right:auto" src="https://simpleicons.org/icons/github.svg" height="108" width="108" />
 </p>
 
-<!--
-**dangdh/DHaiDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-https://simpleicons.org/
-
--->
-
-
 
 <p align="center">
     <a href="https://t.me/tranguet">
@@ -33,25 +14,10 @@ https://simpleicons.org/
     <a href="https://www.linkedin.com/in/dang-dong-8738641a6/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"      
             alt="LinkedIn"></a>
-    <a href="https://twitter.com/intent/follow?screen_name=donghaidang179">
-        <img src="https://img.shields.io/twitter/follow/donghaidang179?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
     <a href="#">
         <img src="https://img.shields.io/badge/Skype @donghaidang179--_.svg?style=social&logo=skype"      
             alt="LinkedIn"></a>
 </p>
-
-<h2 align="center">About me </h2>
-<p align="center">
-<b>Viettel Cyber Security</b>
-<br>
-Itern Devops
-<br>
-<b>Add</b>: Hoang Hoa Tham street, Ba Dinh District, Ha Noi
-<br>
-<b>Email</b>: dangdh10@viettel.com.vn | Website: https://viettelcybersecurity.com/
-</p>
-
 
 <h2 align="center">Research</h2>
 <p align="center">
@@ -66,5 +32,9 @@ Itern Devops
             alt="LinkedIn"></a>
             <a href="https://github.com/DHaiDang/Top_10_Owasp_research">
         <img src="https://img.shields.io/badge/Owasp--_.svg?style=social&logo=owasp"      
-            alt="LinkedIn"></a> 
+            alt="LinkedIn"></a>
+<a href="https://github.com/DHaiDang/Devops_research">
+        <img src="https://img.shields.io/badge/Elastic%20Stack-7.9.2-00bfb3?style=flat&logo=elastic-stack"      
+            alt="ELK stack"></a>
+         
 </p>
