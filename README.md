@@ -2,7 +2,7 @@
 <p align="center">
 <img   style="display: block; margin-left:auto; margin-right:auto" src="https://simpleicons.org/icons/github.svg" height="108" width="108" />
 </p>
-
+<!-- 
 
 <p align="center">
     <a href="https://t.me/tranguet">
@@ -37,4 +37,4 @@
         <img src="https://img.shields.io/badge/Elastic%20Stack-7.9.2-00bfb3?style=flat&logo=elastic-stack"      
             alt="ELK stack"></a>
          
-</p>
+</p> -->
